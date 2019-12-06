@@ -1,0 +1,32 @@
+read, reserved word
+x, Identifier
+;, Symbol
+if, reserved word
+0, Number
+<, Symbol
+x, Identifier
+then, reserved word
+fact, Identifier
+:=, Symbol
+1, Number
+;, Symbol
+repeat, reserved word
+fact, Identifier
+:=, Symbol
+fact, Identifier
+*, Symbol
+x, Identifier
+;, Symbol
+x, Identifier
+:=, Symbol
+x, Identifier
+-, Symbol
+1, Number
+until, reserved word
+x, Identifier
+=, Symbol
+0, Number
+;, Symbol
+write, reserved word
+fact, Identifier
+end, reserved word
